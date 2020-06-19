@@ -1,4 +1,5 @@
 # Glassdoor Web Scraping Project
+https://nycdatascience.com/blog/student-works/web-scraping/does-company-culture-increase-shareholder-value/
 
 # Does Company Culture increase Shareholder Value?
 ### An analysis of Glassdoor's "Best Places to Work" Companies and their stock performance. 
